@@ -12,7 +12,11 @@
 
 **注意** 
 
-设定自定义域名：https://cdn.jsdelivr.net/gh/[github用户名]/[仓库名]@main，注意，此处的分支一定要填写@main，否则默认使用master分支。而现在github创建的默认分支名为main，如果不指定，则会出现图片不能上传的情况
+设定自定义域名下面带加速的：
+
+https://cdn.jsdelivr.net/gh/[github用户名]/[仓库名]@main
+
+注意，此处的分支一定要填写@main，否则默认使用master分支。而现在github创建的默认分支名为main，如果不指定，则会出现图片不能上传的情况
 
 picgo-server 设置里端口必须 36677
 
