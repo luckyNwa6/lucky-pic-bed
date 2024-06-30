@@ -1,4 +1,4 @@
-# 图床安装教程
+# 图床安装
 
 先创建一个仓库，记得是公开的加勾选md文档，再去https://github.com/settings/apps
 
