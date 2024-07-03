@@ -20,5 +20,7 @@ https://cdn.jsdelivr.net/gh/[github用户名]/[仓库名]@main
 
 picgo-server 设置里端口必须在PicGo设置中--->设置Server---> 36677 
 
+GitHub图床仓库大小不能超过 1G。因为GitHub原则上是反对仓库图床化的，当仓库超过 1G 后会有人工审核仓库内容，如果发现用来做图床，轻则删库重则封号
+
 ## Typora
 绑定Typora，在顶部菜单界面，选择“文件” - > “偏好设置”，设置图片存储方式
