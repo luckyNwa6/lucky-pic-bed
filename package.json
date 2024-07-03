@@ -1,6 +1,6 @@
 {
   "name": "lucky-pic-bed-nwa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "图床包",
   "main": "index.js",
   "scripts": {
