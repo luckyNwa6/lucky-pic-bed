@@ -1,11 +1,22 @@
 {
-  "name": "lucky-pic-bed-nwa",
-  "version": "1.0.3",
-  "description": "图床包",
+  "name": "lucky-img",
+  "version": "1.0.1",
+  "description": "图包",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "luckynwa",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyNwa6/lucky-pic-bed.git"
+  },
+  "keywords": [
+    "pic"
+  ],
+  "bugs": {
+    "url": "https://github.com/luckyNwa6/lucky-pic-bed/issues"
+  },
+  "homepage": "https://github.com/luckyNwa6/lucky-pic-bed#readme"
 }
