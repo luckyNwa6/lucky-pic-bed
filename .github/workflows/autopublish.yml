@@ -1,9 +1,9 @@
 name: Node.js Package
-
+# 暂时不同步到npm了
 on:
   push:
     branches:
-      - main
+      - main-lucky
 
 jobs:
   publish-npm:
